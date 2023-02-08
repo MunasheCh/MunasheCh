@@ -14,9 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 - ### 🌱 I’m currently learning to code for Data Science.
 - ### 🔭 I’m currently working on a card game app.
-- ### 🤔 I’m looking for help with making a music app.
+
+  <img src = 'Images/Presedents_768x500.jpg' width = 200 >
+
+- ### 🤔 I’m looking for help with making a music streaming app.
+
+  <img src = 'Images/Notes.jpg' width = 200 >
+
 - ### 💬 Ask me about anything!
 - ### 😄 Pronouns: He/Him
 - ### ⚡ Fun fact: When was a child I got lost in the mountain twice, having a compass and a map. 😂😂
+
+  <img src = 'Images/Lost.avif' width = 200 >
