@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - ### 🤔 I’m looking for help with making a music app.
 - ### 💬 Ask me about anything!
 - ### 😄 Pronouns: He/Him
-- ### ⚡ Fun fact: I got lost in the mountain twice, having a compass and a map. 😂😂
+- ### ⚡ Fun fact: When was a child I got lost in the mountain twice, having a compass and a map. 😂😂
