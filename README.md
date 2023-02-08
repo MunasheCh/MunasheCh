@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 
 
 <!--
 **MunasheCh/MunasheCh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- ### 🌱 I’m currently learning to code for Data Science.
+- ### 🔭 I’m currently working on a card game app.
+- ### 🤔 I’m looking for help with making a music app.
+- ### 💬 Ask me about anything!
+- ### 😄 Pronouns: He/Him
+- ### ⚡ Fun fact: I got lost in the mountain twice, having a compass and a map. 😂😂
